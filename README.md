@@ -12,7 +12,6 @@ Esta implementación dentro de la arquitectura Backend con FastAPI integra y eva
 4. **`main.py`**: Expone los endpoints `/search/greedy` y `/search/star`.
 
 ## Resultados Empíricos (Pruebas)
-*Nota: Los tiempos exactos $T(n)$ variaron por latencia de ejecución local, pero la tendencia teórica se mantuvo.*
 
 ### Grafo 1 (10 Nodos: A -> J)
 *   **Greedy:** Nodos visitados: 4 | Solución: True | Ruta: ['A', 'D', 'F', 'I', 'J'] | $S(n)$: O(18)
