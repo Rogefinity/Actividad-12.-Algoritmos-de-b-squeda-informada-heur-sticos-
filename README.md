@@ -1,4 +1,3 @@
-# Actividad-12.-Algoritmos-de-b-squeda-informada-heur-sticos-
 # Actividad 12. Algoritmos de Búsqueda Informada (Heurísticos)
 **Estudiante:** Rogelio Sotomayor Carrasco
 **No. de cuenta:** 195721
